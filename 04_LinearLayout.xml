@@ -1,0 +1,23 @@
+<LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#f8f8"
+    android:padding="20dp">
+    
+    <TextView
+        android:text="Happy Birthday!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="40sp"/>
+    <TextView
+        android:text="Soumyadeep Dey"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#780"
+        android:textStyle="italic"
+        android:textSize="35sp"/>
+    
+</LinearLayout>
+        
