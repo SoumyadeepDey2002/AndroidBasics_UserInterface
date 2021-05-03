@@ -1,0 +1,7 @@
+<TextView 
+	android:text = "You are my sunshine my only sunshine you make me happy when skies are grey "
+	android:background = "@android:color/darker_gray"
+	android:layout_width = "wrap_content"
+	android:layout_height = "wrap_content"
+    android:textSize = "50sp"
+    />
