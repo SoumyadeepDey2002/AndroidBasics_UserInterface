@@ -1,0 +1,8 @@
+<TextView 
+	android:text = "You are my sunshine my only sunshine you make me happy when skies are grey "
+	android:background = "#2196f3"
+    android:textColor = "#AED581"
+	android:layout_width = "wrap_content"
+	android:layout_height = "wrap_content"
+    android:textSize = "50sp"
+    />
